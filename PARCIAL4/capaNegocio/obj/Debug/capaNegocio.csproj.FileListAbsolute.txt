@@ -1,0 +1,5 @@
+c:\users\david ramirez\documents\visual studio 2015\Projects\PARCIAL4\capaNegocio\bin\Debug\capaNegocio.dll
+c:\users\david ramirez\documents\visual studio 2015\Projects\PARCIAL4\capaNegocio\bin\Debug\capaNegocio.pdb
+c:\users\david ramirez\documents\visual studio 2015\Projects\PARCIAL4\capaNegocio\obj\Debug\capaNegocio.dll
+c:\users\david ramirez\documents\visual studio 2015\Projects\PARCIAL4\capaNegocio\obj\Debug\capaNegocio.pdb
+c:\users\david ramirez\documents\visual studio 2015\Projects\PARCIAL4\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache

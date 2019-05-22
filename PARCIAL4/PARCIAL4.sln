@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capaNegocio", "capaNegocio\capaNegocio.csproj", "{AB41997F-215C-4E90-83E8-2DB53E68C9DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diseño", "Diseño\Diseño.csproj", "{CAEA7240-61DC-429D-8946-5D12DE6D3974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB41997F-215C-4E90-83E8-2DB53E68C9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB41997F-215C-4E90-83E8-2DB53E68C9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB41997F-215C-4E90-83E8-2DB53E68C9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB41997F-215C-4E90-83E8-2DB53E68C9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAEA7240-61DC-429D-8946-5D12DE6D3974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEA7240-61DC-429D-8946-5D12DE6D3974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEA7240-61DC-429D-8946-5D12DE6D3974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEA7240-61DC-429D-8946-5D12DE6D3974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
